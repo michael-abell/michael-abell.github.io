@@ -7,6 +7,12 @@ My [Original Artifact](https://github.com/michael-abell/michael-abell.github.io/
 
 The following will outline what I've put together in this course, but more importantly, how I've grown in computer science.
 
+## Professional Self Assessment
+
+The work is complete, the final touches have been added. There are lessons learned and skills gained. The following is a professional self assessment of my strengths and skills, both personally and with respect to the project. My hope is that this showcases my ability to learn new ideas and practices from scratch, as well as the ability to take criticism and use it to my benefit
+
+[PSA](https://github.com/michael-abell/michael-abell.github.io/blob/main/Written%20Resources/PSA.docx)
+
 ## What does this software do?
 
 As you'll read in my professional self assessment, my interest in developing code stems from a desire to creatively problem solve. In my opinion, all software solves a problem.
@@ -40,10 +46,6 @@ From the code review I essentially participated in code reviews with my instruct
     - [Milestone4](https://github.com/michael-abell/michael-abell.github.io/blob/main/Written%20Resources/Milestone4.docx)
 
 
-## Professional Self Assessment
 
-The work is complete, the final touches have been added. There are lessons learned and skills gained. The following is a professional self assessment of my strengths and skills, both personally and with respect to the project. My hope is that this showcases my ability to learn new ideas and practices from scratch, as well as the ability to take criticism and use it to my benefit
-
-[PSA](https://github.com/michael-abell/michael-abell.github.io/blob/main/Written%20Resources/PSA.docx)
 
 
